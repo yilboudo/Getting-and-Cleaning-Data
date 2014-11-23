@@ -1,3 +1,5 @@
+#Here is the script for merging, getting, and cleaning the data. 
+
 # Step1.
 setwd("/Users/yannilboudo/Desktop/Coursera_Class/Getting_and_cleaning_data/UCI_HAR_Dataset")
 
