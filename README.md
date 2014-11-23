@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course README
+Getting and Cleaning Data Course README.
 
 This file explains how run_analysi.R script is designed.
 
