@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course Project CodeBook
+Getting and Cleaning Data Course Project CodeBook.
 
 The scope of this file is to explain the variables, the data, and any modifications applied to getting and cleaning the data.
 
